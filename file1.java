@@ -1,0 +1,20 @@
+total 3312
+-rw------- 1 ajay    ajay          0 Feb 17 20:46 config-err-IOnnDa
+drwxr-xr-x 2 jenkins jenkins    4096 Feb 17 20:46 hsperfdata_jenkins
+drwxr-xr-x 2 root    root       4096 Feb 17 20:46 hsperfdata_root
+drwx------ 2 jenkins jenkins    4096 Feb 17 20:46 jetty-0_0_0_0-8080-war-_-any-4849519474027255049
+drwx------ 3 root    root       4096 Feb 17 20:46 snap.snap-store
+drwx------ 2 ajay    ajay       4096 Feb 17 20:46 ssh-aM3EHMpjeR4F
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-colord.service-GaI9Sg
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-fwupd.service-cuAOJf
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-geoclue.service-smTyVi
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-ModemManager.service-vaWssi
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-switcheroo-control.service-antPbg
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-systemd-logind.service-9zZU9e
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-systemd-resolved.service-ZxrFuh
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-systemd-timesyncd.service-pI6Yxh
+drwx------ 3 root    root       4096 Feb 17 20:46 systemd-private-98c169a323ae408fa4aa56d64f6bd7be-upower.service-XeCeuj
+drwx------ 2 ajay    ajay       4096 Feb 17 20:46 tracker-extract-files.1000
+drwx------ 2 gdm     gdm        4096 Feb 17 20:46 tracker-extract-files.125
+drwx------ 2 jenkins jenkins    4096 Feb 17 20:47 tracker-extract-files.127
+-rw-r--r-- 1 jenkins jenkins 3319617 Feb 17 20:46 winstone15232968420886219207.jar
